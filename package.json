@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gr8Gatsby/lwc-workshop-master.git"
+    "url": "git+https://github.com/Benson-Developer/lwc-workshop-master.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Gr8Gatsby/lwc-workshop-master/issues"
+    "url": "https://github.com/Benson-Developer/lwc-workshop-master/issues"
   },
-  "homepage": "https://github.com/Gr8Gatsby/lwc-workshop-master#readme",
+  "homepage": "https://github.com/Benson-Developer/lwc-workshop-master#readme",
   "devDependencies": {
     "@salesforce/lwc-jest": "^0.5.4"
   }
